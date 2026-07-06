@@ -1,31 +1,28 @@
-Hi, I'm Rathee Hussain 👋
+Rathee Hussain
+AI Product Management Researcher & Practitioner
 
-AI Product Manager passionate about building products people love.
+I research, design, and build AI products that create measurable business value.
 
-I work on - 
-AI Products,
-Product Strategy,
-MVP Development,
-Product Discovery,
-User Research,
-SaaS,
-Startup Consulting.
+Research Areas
+AI Product Strategy
+AI Product Management
+Responsible AI
+Product Analytics
+Product Discovery
+AI Governance
+SaaS
+Current Research
 
-Current Focus -
-AI Product Management,
-Building Product Portfolio,
-Freelance Product Consulting.
+Developing frameworks for:
 
-Skills - 
-Product Management, 
-Client Relationship Management,
-Product Strategy,
-Product Discovery,
-Roadmapping,
-Agile,
-UX Research.
+AI Product Lifecycle
+Responsible AI Products
+AI Product Metrics
+AI Adoption Framework
 
-Reach Me @
-Email:
-ratheerhussain@outlook.com
+Open to
+AI Product Manager Roles
+Research Collaboration
+Startup Advisory
+Speaking Engagements
 -->
